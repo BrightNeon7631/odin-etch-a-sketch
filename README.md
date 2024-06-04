@@ -43,7 +43,3 @@ I started and finished this project in July 2022.
 ```bash
   git clone
 ```
-
-
-Commits
-- Added a slider, color picker and clear button
